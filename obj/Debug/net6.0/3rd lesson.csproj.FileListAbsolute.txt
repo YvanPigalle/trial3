@@ -1,0 +1,15 @@
+C:\Users\NoKatana\Desktop\home\3rd lesson\bin\Debug\net6.0\3rd lesson.exe
+C:\Users\NoKatana\Desktop\home\3rd lesson\bin\Debug\net6.0\3rd lesson.deps.json
+C:\Users\NoKatana\Desktop\home\3rd lesson\bin\Debug\net6.0\3rd lesson.runtimeconfig.json
+C:\Users\NoKatana\Desktop\home\3rd lesson\bin\Debug\net6.0\3rd lesson.dll
+C:\Users\NoKatana\Desktop\home\3rd lesson\bin\Debug\net6.0\3rd lesson.pdb
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.csproj.AssemblyReference.cache
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.AssemblyInfoInputs.cache
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.AssemblyInfo.cs
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.csproj.CoreCompileInputs.cache
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.dll
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\refint\3rd lesson.dll
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.pdb
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\3rd lesson.genruntimeconfig.cache
+C:\Users\NoKatana\Desktop\home\3rd lesson\obj\Debug\net6.0\ref\3rd lesson.dll
